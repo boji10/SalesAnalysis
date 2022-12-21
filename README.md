@@ -15,4 +15,4 @@ I work on a range of skills in this project, including:
 
 -Working with the SQL XML Path function
 
--This project is a great way to practice and improve your skills in SQL, particularly when it comes to working with complex queries and data manipulation.
+This project is a great way to practice and improve your skills in SQL, particularly when it comes to working with complex queries and data manipulation.
